@@ -18,7 +18,7 @@
   "dependencies": {
     "@1inch/solidity-utils": "2.2.24",
     "@chainlink/contracts": "0.6.1",
-    "@openzeppelin/contracts": "4.8.2"
+    "@openzeppelin/contracts": "4.8.3"
   },
   "devDependencies": {
     "@matterlabs/hardhat-zksync-deploy": "0.6.3",
