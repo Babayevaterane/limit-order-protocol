@@ -934,9 +934,9 @@
     "@oclif/core" "^2.4.0"
 
 "@openzeppelin/contracts-upgradeable@^4.7.3":
-  version "4.8.1"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.8.1.tgz#363f7dd08f25f8f77e16d374350c3d6b43340a7a"
-  integrity sha512-1wTv+20lNiC0R07jyIAbHU7TNHKRwGiTGRfiNnA8jOWjKT98g5OgLpYWOi40Vgpk8SPLA9EvfJAbAeIyVn+7Bw==
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.9.1.tgz#03e33b8059ce43884995e69e4479f5a7f084b404"
+  integrity sha512-UZf5/VdaBA/0kxF7/gg+2UrC8k+fbgiUM0Qw1apAhwpBWBxULbsHw0ZRMgT53nd6N8hr53XFjhcWNeTRGIiCVw==
 
 "@openzeppelin/contracts-v0.7@npm:@openzeppelin/contracts@v3.4.2":
   version "3.4.2"
